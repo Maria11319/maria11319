@@ -1,11 +1,13 @@
-### Hi there 👋, I'm Maria!
+## Hi, I'm Maria
+## About me
+-I'm currently learning Computer Programming at IYF<br/>
+-I'm interested in web development<br/>
+-I'm looking to collaborate on beginner-friendly open source projects<br/>
 
-Tech enthusiasist<br/>
-Computer Programming student at IYF<br/>
-I,m currently working on JavaScript<br/>
-I,m currently learning HTML,CSS<br/>
-Open to collaborate on:Open sources/Web Apps<br/>
-Ask me about:HTML<br/>
-Fun fact:Add something unique about you<br/>
-Reach me at:mariajones3197@gmail.com<br/>
+## Skills I'm building
+-Git and Github<br/>
+-HTML/CSS<br/>
+
+## How to reach Me
+-Email:mariajones3197@gmail.com<br/>
 
