@@ -1,0 +1,62 @@
+##  My Learning Goals
+
+###  This Semester
+
+I am learning **GitHub** to improve my skills, with an *enthusiastic* mindset, so I can eventually write clean `git commit` messages like a ~~professional~~
+
+- [My GitHub Profile](https://github.com/Maria11319)
+- [GitHub Docs](https://docs.github.com)
+
+- Things I want to learn:
+- version control with Git
+- Building websites with GitHub Pages
+- Writing clean Markdown documantation
+
+- Steps to make a commit in Git:
+1. Makes changes to your file(s)
+2. Stage the changes using 'git add.'
+3. Commit the changes using 'git commit=m"your message"
+4. Push to GitHub using 'git push'
+
+5. |Tool                | Purpose                        | Link                           |
+6. |---------------------|---------------------------------|-------------------------------|
+7. |Git                 | version control                | https://git-scm.com |
+8. |GitHub              | remote repository hosting      | https://github.com |
+9. |Sublime Text        | code and text editing          | https://www.sublimetext.com |
+
+10. - [x] Install my Computer
+    - [x] Configure Git with my name and email
+    - [x] Login to GitHub
+    - [ ] Create my GitHub Profile README
+    - [ ] Host a site with GitHub pages
+
+    ```Python
+    #python example
+    name = "Maria"
+    print(f"Hello,{name}! Welcome to GitHub.")
+    
+    >"The best way to get started is to quit talking and srart doing"
+
+    ## About Me
+
+    My name is **Maria**, and am currently learning *web development* through GitHub.
+    Here are some tools I work with:
+
+    | Tool          | Purpose         |
+    ----------------------------------|
+    | Git           | version control |
+    | GitHub        | code hosting    |
+
+    My current learning checklists:
+    - [x] Set up Git and GitHub
+    - [x] Learn basic Markdown
+    - [] Host a site with GitHub pages
+    - [] Colaborate with a team on GitHub
+
+    Steps I follow to save my work:
+    1.Edit my files
+    2. Run 'git add.'
+    3. Run 'git commit=m"my message"'
+    4.Run 'git push'
+
+    >"Every expert was once a beginner.Keep going!"
