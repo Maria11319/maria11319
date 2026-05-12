@@ -1,23 +1,19 @@
-# Hi, I'm Maria
+# Hi, I'm Maria! 👋
 
 ## About Me
-I'm a passionate beginner developer currently studying Computer Programming at IYF.
-I believe in learning by doing, and am on a mission to turn curiosity into code, one project at a time.
+I'm learning web development through the IYF S10 program.
 
-## Skills I'm Building
+## 🔧 Tech Stack
+- HTML5
+- CSS3
+- Git & GitHub
 
-- **Git and GitHub** = version control and collaboration.
-- **HTML/CSS** = Structuring and styling the web.
+## 📚 Currently Learning
+- JavaScript
+- Responsive Design
+- Terminal & Git workflows
 
-- ## My Goals
-  
-- Build my first complete website from scratch
-- Collaborate on beginner=friendly open source projects
-- Grow into a confident full-stack web developer
-
-  ## Fun Fact
-  Every expert was once a beginner. I'm proud to be at the start of my journey!
-
-  ## How to reach Me
-  -**Email:** mariajones3197@gmail.com
+## 📫 How to reach me
+- Email: mariajones3197@gmail.com
+- GitHub: [@Maria11319](https://github.com/Maria11319)
 
